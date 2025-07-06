@@ -1,15 +1,15 @@
 # Aplicação IoT
 
 # Objetivo Educacional (Aluno)
-Criar, programar, simular e documentar um sistema IoT que:
+- Criar, programar, simular e documentar um sistema IoT que:
 
-Leia variáveis físicas relevantes (consumo simulado com potenciômetro);
+- Leia variáveis físicas relevantes (consumo simulado com potenciômetro);
 
-Envie dados para a nuvem via ThingSpeak;
+- Envie dados para a nuvem via ThingSpeak;
 
-Exiba os dados em gráficos públicos;
+- Exiba os dados em gráficos públicos;
 
-Apresente os dados localmente por meio de LEDs e display LCD.
+- Apresente os dados localmente por meio de LEDs e display LCD.
 
 
 # Contextualização / Problema Real
