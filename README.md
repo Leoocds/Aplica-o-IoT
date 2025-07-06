@@ -39,6 +39,11 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 - Wokwi (ambiente de simulação online)
 
+# Links Úteis
+
+- Simulação do projeto: https://wokwi.com/projects/435690547186087937
+- Canal no ThingSpeak: https://thingspeak.mathworks.com/channels/3003988/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&xaxis=Horas
+- Video explicativo:  
 
 # Classificação do Nível de Consumo (LEDs)
 Verde: < 30 litros → Consumo baixo
