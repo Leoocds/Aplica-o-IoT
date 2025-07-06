@@ -31,7 +31,7 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 - Sensor Simulado: Potenciômetro (representa o fluxo de água)
 
-- Display LCD 16x2 I2C (exibe consumo em tempo real)
+- Display OLED SSD1603 (exibe consumo em tempo real)
 
 - LEDs (verde, amarelo, vermelho) (indicam nível de uso)
 
