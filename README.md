@@ -1,4 +1,4 @@
-# Aplicação IoT
+# Aplicação de IoT na Automação de Ambientes e Processos
 
 # Descrição do projeto
 Este projeto tem como objetivo o desenvolvimento de um sistema IoT funcional para monitoramento de consumo de água em tempo real. Utilizando um potenciômetro como sensor simulado, o valor de consumo é convertido em litros e enviado à nuvem via ThingSpeak, além de ser exibido em um display OLED SSD1603. O sistema ainda conta com LEDs indicadores de nível de consumo (baixo, médio ou alto), promovendo uma interface visual simples e eficiente.
@@ -16,7 +16,7 @@ Este projeto tem como objetivo o desenvolvimento de um sistema IoT funcional par
 - Apresente os dados localmente por meio de LEDs e display LCD.
 
 
-# Contextualização / Problema Real
+# Contextualização do Problema
 Em residências, empresas ou instituições com alta rotatividade de usuários, como escolas ou condomínios, o consumo de água pode ser elevado e pouco controlado. A falta de monitoramento em tempo real impede ações de economia, além de dificultar a identificação de vazamentos ou picos anormais. 
 Este sistema simulado representa uma solução viável e acessível para:
 
@@ -26,7 +26,7 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 - Conscientizar usuários sobre o nível de consumo.
 
-# Tecnologias Utilizadas
+# Tecnologias 
 - ESP32 (placa de desenvolvimento IoT com Wi-Fi)
 
 - Sensor Simulado: Potenciômetro (representa o fluxo de água)
@@ -39,7 +39,7 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 - Wokwi (ambiente de simulação online)
 
-# Links Úteis
+# Links 
 
 - Simulação do projeto: https://wokwi.com/projects/435690547186087937
 - Canal no ThingSpeak: https://thingspeak.mathworks.com/channels/3003988/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&xaxis=Horas
