@@ -47,7 +47,7 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 # Participantes
 
-- Geovanne Brandão de Aquino 
+- Giovanne Brandão de Aquino 
 
 - Leonardo de Lima Pedroso
 
