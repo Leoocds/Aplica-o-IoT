@@ -17,14 +17,8 @@ Este projeto tem como objetivo o desenvolvimento de um sistema IoT funcional par
 
 
 # Contextualização do Problema
-Em residências, empresas ou instituições com alta rotatividade de usuários, como escolas ou condomínios, o consumo de água pode ser elevado e pouco controlado. A falta de monitoramento em tempo real impede ações de economia, além de dificultar a identificação de vazamentos ou picos anormais. 
-Este sistema simulado representa uma solução viável e acessível para:
-
-- Visualizar o consumo de forma local (display + LEDs);
-
-- Enviar dados para a nuvem para registro e análise histórica;
-
-- Conscientizar usuários sobre o nível de consumo.
+Imagine-se uma organização que passou pela troca da empresa terceirizada que lhe fornecia serviços de limpeza e de manutenção. Essa organização, nos meses seguintes, observou uma variação nos valores das suas contas de água, em  relação ao valor médio de conta dos doze meses anteriores, em percentuais variados mas sempre significativos e para cima. Como identificar quais processos foram a causa do maior consumo evidente e quais os prestadores responsáveis por tais processos? Como combater as causas do aumento das contas de água?
+É, por exemplo, para resolver situações como essa que nosso projeto foi pensado. Seja para residências, instituições de ensino, comércio, indústria, seja para quaisquer locais onde o consumo de água pode ser elevado e difícil de monitorar. Este sistema IoT permitiria que o consumo seja visualizado localmente e remotamente, ajudando na conscientização, na economia e no combate ao desperdício de água.
 
 # Tecnologias 
 - ESP32 (placa de desenvolvimento IoT com Wi-Fi)
