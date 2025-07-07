@@ -45,7 +45,7 @@ Imagine-se uma organização que passou pela troca da empresa terceirizada que l
 
 - Leonardo de Lima Pedroso
 
-- Ricardo Queiroz de Oliani
+- Ricardo Queiroz Oliani
 
 - Sergio de Chong Wu
 
