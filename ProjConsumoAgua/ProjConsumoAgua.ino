@@ -15,7 +15,7 @@ const char* writeAPIKey = "GWCR62SDK4BWR2VP";
 
 // Sensor e LEDs
 const int pot1 = 34;
-const int led1 = 6;
+const int led1 = 5;
 const int led2 = 4;
 const int led3 = 2;
 
