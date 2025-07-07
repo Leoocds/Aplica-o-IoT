@@ -43,14 +43,17 @@ Este sistema simulado representa uma solução viável e acessível para:
 
 - Simulação do projeto: https://wokwi.com/projects/435690547186087937
 - Canal no ThingSpeak: https://thingspeak.mathworks.com/channels/3003988/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&xaxis=Horas
-- Video explicativo:  
+- Video explicativo: https://www.youtube.com/watch?v=g0i1V5EJl4k
 
-# Classificação do Nível de Consumo (LEDs)
-Verde: < 30 litros → Consumo baixo
+# Participantes
 
-Amarelo: 30 a 70 litros → Consumo moderado
+- Geovanne Brandão de Aquino 
 
-Vermelho: > 70 litros → Consumo alto
+- Leonardo de Lima Pedroso
+
+- Ricardo Queiroz de Oliani
+
+- Sergio de Chong Wu
 
 
 
